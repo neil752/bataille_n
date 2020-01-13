@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578932251 source:c:\donnees\ludus\cours\algo\tp\battaille_navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
